@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "project-1"
+name = "project1"
 version = "0.1.0"
 description = ""
 authors = [
@@ -13,6 +13,7 @@ flytekit = "^1.1.1"
 awscli = "1.25.53"
 
 [tool.poetry.dev-dependencies]
+
 
 [build-system]
 requires = ["poetry-core>=1.0.8"]
