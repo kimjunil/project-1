@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "project-1"
+version = "0.1.0"
+description = ""
+authors = [
+    "junil.kim <junil.kim@qraftec.com>",
+    "sean.kim <seongmin.kim@qraftec.com>",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flytekit = "^1.1.1"
+awscli = "1.25.53"
